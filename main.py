@@ -28,7 +28,7 @@ def encrypt():
         messagebox.showerror("encryption", "Masukkan Password")
 
     # jika kamu mengubah password diatas
-    # ubah password ini juga sesuai password kamu yang diatas
+    # ubah password ini juga sesuai dengan password kamu yang diatas
     elif password != "hiba":
         messagebox.showerror("encryption", "Invalid Password")
 
@@ -57,7 +57,7 @@ def decrypt():
         messagebox.showerror("encryption", "Masukkan Password")
 
     # jika kamu mengubah password diatas
-    # ubah password ini juga sesuai password kamu yang diatas
+    # ubah password ini juga sesuai dengan password kamu yang diatas
     elif password != "hiba":
         messagebox.showerror("encryption", "Invalid Password")
 
